@@ -1,6 +1,6 @@
 # Geolocation
 
-Geolocation is a mobile app developed using Flutter and Google Maps API which helps user to bookmark his facorite location and save it. It also has a chatting portal for user to stay in touch with his/her friends.
+Geolocation is a mobile app developed using Flutter and Google Maps API which helps user to bookmark his favorite location and save it. It also has a chatting portal for user to stay in touch with his/her friends.
 
 ## Features of APP
  1. User can bookmark their liked location on the map easily.
